@@ -20,7 +20,7 @@ tsc --watch
 ``` 
 *Note*: It will auto compile from TypeScript into JavaScript everytime you save the files.
 
-If you can't run the project, you can visit here:  to see the demo.
+If you can't run the project, you can visit here: https://saaransht.github.io/AlgoVision/  to see the demo.
 
 ## Features
 ### Sorting Algorithms
